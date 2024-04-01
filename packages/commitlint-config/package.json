@@ -1,0 +1,11 @@
+{
+  "name": "bk-commitlint-config",
+  "version": "0.0.1",
+  "description": "bk commit 提交规范",
+  "author": "b",
+  "license": "ISC",
+  "main": "index.js",
+  "devDependencies": {
+    "conventional-changelog-conventionalcommits": "^7.0.2"
+  }
+}
