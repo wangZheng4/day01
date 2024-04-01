@@ -2,7 +2,7 @@
   "name": "bk-commitlint-config",
   "version": "0.0.2",
   "description": "bk commit 提交规范",
-  "author": "b",
+  "author": "bk",
   "license": "ISC",
   "main": "index.js",
   "dependencies": {

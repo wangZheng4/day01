@@ -1,9 +1,6 @@
 {
   "name": "root",
   "private": true,
-  "workspaces": [
-    "packages/commitlint-config"
-  ],
   "devDependencies": {
     "@commitlint/cli": "^19.2.1",
     "husky": "^9.0.11",
