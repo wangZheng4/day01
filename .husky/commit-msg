@@ -1,7 +1,6 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
-echo "hello 11111"
+echo "hello 1111"
 
 npx commitlint --edit $1
-
