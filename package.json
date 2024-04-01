@@ -2,7 +2,7 @@
   "name": "root",
   "private": true,
   "workspaces": [
-    "packages/*"
+    "packages/commitlint-config"
   ],
   "devDependencies": {
     "@commitlint/cli": "^19.2.1",
