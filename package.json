@@ -6,6 +6,7 @@
   ],
   "devDependencies": {
     "@commitlint/cli": "^19.2.1",
+    "husky": "^9.0.11",
     "lerna": "^8.1.2",
     "markdownlint": "^0.34.0",
     "pnpm": "^8.6.0"
