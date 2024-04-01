@@ -1,9 +1,0 @@
-17 error Error: Command failed with exit code 1: git remote update
-17 error fatal: unable to access 'https://github.com/wangZheng4/day01.git/': HTTP/2 stream 1 was not closed cleanly before end of the underlying stream
-17 error     at makeError (E:\wz\yinke\前端编码规范工程化\day01\node_modules\.pnpm\execa@5.0.0\node_modules\execa\lib\error.js:59:11)
-17 error     at Function.module.exports.sync (E:\wz\yinke\前端编码规范工程化\day01\node_modules\.pnpm\execa@5.0.0\node_modules\execa\index.js:186:17)
-17 error     at Object.execSync (E:\wz\yinke\前端编码规范工程化\day01\node_modules\.pnpm\lerna@8.1.2\node_modules\lerna\dist\index.js:142:31)
-17 error     at updateRemote (E:\wz\yinke\前端编码规范工程化\day01\node_modules\.pnpm\lerna@8.1.2\node_modules\lerna\dist\index.js:7780:18)
-17 error     at isBehindUpstream (E:\wz\yinke\前端编码规范工程化\day01\node_modules\.pnpm\lerna@8.1.2\node_modules\lerna\dist\index.js:7770:3)
-17 error     at VersionCommand.initialize (E:\wz\yinke\前端编码规范工程化\day01\node_modules\.pnpm\lerna@8.1.2\node_modules\lerna\dist\index.js:8061:57)
-17 error     at VersionCommand.runCommand (E:\wz\yinke\前端编码规范工程化\day01\node_modules\.pnpm\lerna@8.1.2\node_modules\lerna\dist\index.js:1861:36)
