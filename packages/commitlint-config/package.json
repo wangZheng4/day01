@@ -1,6 +1,6 @@
 {
   "name": "bk-commitlint-config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "bk commit 提交规范",
   "author": "bk",
   "license": "ISC",
