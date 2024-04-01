@@ -5,8 +5,10 @@
     "packages/*"
   ],
   "devDependencies": {
+    "@commitlint/cli": "^19.2.1",
     "lerna": "^8.1.2",
-    "markdownlint": "^0.34.0"
+    "markdownlint": "^0.34.0",
+    "pnpm": "^8.6.0"
   },
   "scripts": {
     "preinstall": "npx only-allow pnpm",
