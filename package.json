@@ -10,6 +10,7 @@
     "lerna": "^8.1.2",
     "markdownlint": "^0.34.0",
     "pnpm": "^8.6.0",
+    "vue-template-compiler": "^2.7.16",
     "vuepress": "^1.9.10"
   },
   "scripts": {
